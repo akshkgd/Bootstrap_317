@@ -1,0 +1,56 @@
+.hero-section{
+    background-image: url('/img/slider-image-6.jpeg');
+    background-size: cover;
+    height: 420px;
+    border-radius: 15px !important;
+}
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+.heading{
+    font-weight:800 !important;
+    color: white;
+    
+}
+.pl{
+    padding-left: 2.625rem;
+}
+.product{
+    height: 200px;
+    width: auto;
+}
+.btn-rounded{
+    /* border-radius: 50% !important; */
+}
+.card{
+
+    border-radius: 15px !important;
+}
+.border-none{
+    border:none !important;
+}
+.product-container:hover{
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+    border: none;
+}
+.fw-800{
+    font-weight: 800 !important;
+}
+.ck-badge{
+    background-color: #e1f7e8;
+    color: #31b057;
+    border-radius: 15px;
+    display: inline;
+}
+.rating-badge{
+    background-color: #31b057;
+    color: white;
+    border-radius: 15px;
+    display: inline;
+}
+.user{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
