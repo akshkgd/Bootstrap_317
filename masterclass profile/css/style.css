@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color:#0A1D37;
+}
+
+.heading{
+    font-weight: 700;
+}
+.card{
+    border: 1px solid#FFD8CC;
+    border-radius: 1rem;
+    background-color: #FFD8CC !important;
+}
+.hero{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
